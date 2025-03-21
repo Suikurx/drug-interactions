@@ -5,14 +5,6 @@
 ## What is it For? 
 A website where the user will be able to define more than 2 medicines  and ask how the separate interactions correlate with others. so that the patient is provided with a summary on the possible adverse affects of the medications.
 
-
-
-## Screenshots
-
-![App Screenshot](https://imgur.com/a/wG28gmP)
-
-
-
 ## Deployment
 
 To deploy this project run
