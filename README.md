@@ -10,6 +10,8 @@ A website where the user will be able to define more than 2 medicines  and ask h
 To deploy this project run
 
 ```bash
+  gh repo clone Suikurx/drug-interactions
+  cd drug-interactions
   npm run dev
 ```
 
